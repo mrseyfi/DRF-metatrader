@@ -1,7 +1,16 @@
+# VISUAL STUDIO CODE
+*.vscode
+.vscode/
+
+# MAC
+*.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*.__pycache__/
 *.py[cod]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
@@ -109,6 +118,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.myenv
+myenv/
+myvenv.bak/
 
 # Spyder project settings
 .spyderproject
