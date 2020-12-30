@@ -28,7 +28,8 @@ Extensive documentation, and great community support.<BR/>
 Used and trusted by internationally recognised companies including Mozilla, Red Hat, Heroku, and Eventbrite.<BR/>
 </div>
 
-
+<BR/>
+<BR/>
 <div class="highlight highlight-source-js">
 <pre>
 Postman
@@ -37,10 +38,20 @@ Postman
 Postman Galaxy: The Global Virtual API Conference
 <BR/>
 Postman Galaxy is a global, virtual Postman user conference. From February 2 to 4, 2021, we'll gather the world's most enthusiastic API users and developers for a rocketload of action-packed online event activities and content about all things API.
-
 </div>
 
+<BR/>
+<BR/>
+<div class="highlight highlight-source-js">
+<pre>
+MetaTrader
+</pre>
+</div>
+MetaTrader 5 is an institutional multi-asset platform offering outstanding trading possibilities and technical analysis tools, as well as enabling the use of automated trading systems (trading robots) and copy trading. MetaTrader 5 is an all-in-one platform for trading Forex, Stocks and Futures.
+</div>
 
+<BR/>
+<BR/>
 <div class="highlight highlight-source-js">
 <pre>
 Install
@@ -48,7 +59,7 @@ Install
 </div>
     virtualenv myenv<BR/>
     source myenv/bin/activate<BR/>
-    pip3 install django gunicorn mysqlclient<BR/>
+    pip3 install django gunicorn<BR/>
     django-admin startproject core .<BR/>
     manage.py startapp api<BR/>
     pip install djangorestframework<BR/>
