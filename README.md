@@ -39,6 +39,7 @@ Install
     pip3 install django gunicorn mysqlclient<BR/>
     django-admin startproject core .<BR/>
     manage.py startapp api<BR/>
+    pip install djangorestframework<BR/>
 </div>
 
 <BR/>
