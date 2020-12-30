@@ -34,16 +34,22 @@ Used and trusted by internationally recognised companies including Mozilla, Red 
 Install
 </pre>
 </div>
-    virtualenv myenv
-    source myenv/bin/activate
-    pip3 install django gunicorn mysqlclient
-    django-admin startproject core .
-    manage.py startapp api
+    virtualenv myenv<BR/>
+    source myenv/bin/activate<BR/>
+    pip3 install django gunicorn mysqlclient<BR/>
+    django-admin startproject core .<BR/>
+    manage.py startapp api<BR/>
 </div>
 
+<BR/>
+<BR/>
 
+<div class="highlight highlight-source-js">
+<pre>
 Documents
-<div class="highlight highlight-source-js"><pre>
+</pre>
+</div>
+<div>
 https://www.django-rest-framework.org
 <BR/>
 </pre>
